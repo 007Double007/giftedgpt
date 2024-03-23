@@ -12,7 +12,7 @@ import Textarea from "react-textarea-autosize";
 import { toast } from "sonner";
 
 const examples = [
-  "Deeply Explain the Relationship Between Inflation and Unemployment?.",
+  "Where can I Learn Coding and Programming for Free Without Any Charges?.",
   "Write a Simple js Code to Integrate GPT-4 On my Website Using my APi Key .",
   "What are the Top 10 Trending Crypto Stories Today?",
 ];
