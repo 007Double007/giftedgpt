@@ -12,9 +12,9 @@ import Textarea from "react-textarea-autosize";
 import { toast } from "sonner";
 
 const examples = [
-  "What is the Difference between Inflation and Unemployment?.",
-  "Deeply Summarize the play A Doll's House.",
-  "What are the Top 10 Crypto Stories Today?",
+  "Deeply Explain the Relationship Between Inflation and Unemployment?.",
+  "Write a Simple js Code to Integrate GPT-4 On my Website Using my APi Key .",
+  "What are the Top 10 Trending Crypto Stories Today?",
 ];
 
 export default function Chat() {
