@@ -14,7 +14,7 @@ import { toast } from "sonner";
 const examples = [
   "Where Can I Learn Coding and Programming for Free Without Any Charges?",
   "Write a Complex js Code to Integrate GPT-4 On my Website Using my APi Key.",
-  "What are the Top 10 Trending Crypto Stories in Kenya Today?",
+  "What are the Top 10 Trending Cryptocurrency Stories in Kenya Today?",
 ];
 
 export default function Chat() {
